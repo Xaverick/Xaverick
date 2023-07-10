@@ -2,18 +2,27 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Kartik Aggarwal</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" width="300" height="200 alt ="coding" src= "https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
+### Glad to see you here!  
+Enthusiastic web developer. Skilled in HTML, CSS, JavaScript with a passion for creating engaging and user-friendly web experiences. Interested in new experiences in technology.
+Seeking a beginner role to enhance and explore my technical knowledge  
+  
+
+<br/>  
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xaverick&label=Profile%20views&color=0e75b6&style=flat" alt="xaverick" /> </p>
+<img align="right" width="300" height="200 alt ="coding" src= "https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🌱 I’m currently learning **Blockchain Development**
 
-- 💬 Ask me about **MERN, Blockchain**
+- 💬 Ask me about anything related to **MERN stack** and **related technologies**
 
 - 📫 How to reach me **kartikaggarwal2004@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I keep night shift swithed on at all times**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartiks.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-aggarwal-951a6a194) 
