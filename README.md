@@ -32,16 +32,16 @@ Seeking a beginner role to enhance and explore my technical knowledge
 
 # 📊 GitHub Stats:
 
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
- <img style="max-width: 100%;" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Xaverick&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
+ <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
 </div>
 
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
- <img style="max-width: 100%;" src="https://github-readme-streak-stats-ruby-one.vercel.app/api?user=Xaverick&theme=dark&hide_border=false" />
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
+ <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Xaverick&theme=dark&hide_border=false" />
 </div>
 
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
- <img style="max-width: 100%;" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Xaverick&theme=radical&layout=compact" />
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
+ <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaverick&theme=radical&layout=compact" />
 </div>
 
 
