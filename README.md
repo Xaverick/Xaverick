@@ -13,7 +13,7 @@ Seeking a beginner role to enhance and explore my technical knowledge
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xaverick&label=Profile%20views&color=0e75b6&style=flat" alt="xaverick" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Xaverick&label=Profile%20views&color=0e75b6&style=flat" alt="xaverick" /> </p>
 <img align="right" width="300" height="200 alt ="coding" src= "https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 💬 Ask me about anything related to **MERN stack** and **related technologies**
@@ -36,11 +36,11 @@ Seeking a beginner role to enhance and explore my technical knowledge
  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
 </div>
 
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
  <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Xaverick&theme=dark&hide_border=false" />
 </div>
 
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaverick&theme=radical&layout=compact" />
 </div>
 
