@@ -22,8 +22,6 @@ Seeking a beginner role to enhance and explore my technical knowledge
 
 - ⚡ Fun fact **I keep night shift swithed on at all times**
 
-![Snake animation](https://github.com/Xaverick/Xaverick/blob/output/github-contribution-grid-snake.svg)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartiks.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-aggarwal-951a6a194) 
 
