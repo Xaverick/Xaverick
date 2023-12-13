@@ -39,8 +39,10 @@ Seeking a beginner role to enhance and explore my technical knowledge
 </div>
 
 <div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaverick&theme=radical&layout=compact" />
+<!--  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaverick&theme=radical&layout=compact" /> -->
+  [![Xaverick's GitHub | Dependencies](https://stats.quine.sh/Xaverick/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Xaverick)
 </div>
+
 
 
 ### ✍️ Random Dev Quote
