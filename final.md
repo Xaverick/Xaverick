@@ -7,7 +7,7 @@
 
 ---
 
-<h1>Greetings! ✨</h1>
+## Greetings! ✨
 
 Welcome to my GitHub space! I'm **Kartik Aggarwal**, a passionate **full-stack developer** and creative problem solver. I’m driven by the joy of creating unique solutions that make a difference and tackle real-world challenges.
 
