@@ -93,12 +93,12 @@ Welcome to my GitHub space! I'm **Kartik Aggarwal**, a passionate **full-stack d
 # 📊 GitHub Stats:
 
 <div align="center" dir="auto">
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td>
+      <td style="border: none;">
         <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
       </td>
-      <td>
+      <td style="border: none;">
         <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Xaverick&theme=dark&hide_border=false" />
       </td>
     </tr>
