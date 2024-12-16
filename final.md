@@ -80,22 +80,24 @@ Welcome to my GitHub space! I'm **Kartik Aggarwal**, a passionate **full-stack d
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-
+---
 
 # 📊 GitHub Stats:
 
 <div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+ <img style="max-width: 50%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+
+ <img style="max-width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaverick&theme=radical&layout=compact" />
 </div>
 
 <div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
  <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Xaverick&theme=dark&hide_border=false" />
 </div>
 
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaverick&theme=radical&layout=compact" />
+<!-- <div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
+ 
+</div> -->
 
-</div>
 
 ---
 
