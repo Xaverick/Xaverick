@@ -92,10 +92,22 @@ Welcome to my GitHub space! I'm **Kartik Aggarwal**, a passionate **full-stack d
 
 # 📊 GitHub Stats:
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Xaverick&count_private=true&theme=react&border_radius=10" alt="Streak Stats" />
+<div align="center" dir="auto">
+  <table>
+    <tr>
+      <td>
+        <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
+      </td>
+      <td>
+        <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+      </td>
+      <td>
+        <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Xaverick&theme=dark&hide_border=false" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
