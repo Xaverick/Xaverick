@@ -99,9 +99,6 @@ Welcome to my GitHub space! I'm **Kartik Aggarwal**, a passionate **full-stack d
         <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
       </td>
       <td>
-        <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-      </td>
-      <td>
         <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Xaverick&theme=dark&hide_border=false" />
       </td>
     </tr>
