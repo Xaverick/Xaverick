@@ -1,36 +1,13 @@
-<div align="center">
-'''
 
-█████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
-█████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
-████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
-█████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
-███████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
-███████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
-███████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
-████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
-██████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
-███████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
-█████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
-████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
-████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
-███▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
-█████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗ ██
-████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║ ██ 
-",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║ ██
-▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║ 
-▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝ ██
-▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
-'''
-</div>
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&background=FFDC0900&center=true&vCenter=true&width=475&height=55&lines=Hi%2C+I+Am+Kartik+Aggarwal%F0%9F%91%8B;Technology+And+Coding+Enthusiast!" alt="Typing SVG" />
-</div>
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 ---
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&background=FFDC0900&center=true&vCenter=true&width=475&height=55&lines=Hi%2C+I+Am+Kartik+Aggarwal%F0%9F%91%8B;Technology+And+Coding+Enthusiast!" alt="Typing SVG" />
+</div>
+---
 
-<h1 align="center">Greetings! ✨</h1>
+<h1>Greetings! ✨</h1>
 
 Welcome to my GitHub space! I'm **Kartik Aggarwal**, a passionate **full-stack developer** and creative problem solver. I’m driven by the joy of creating unique solutions that make a difference and tackle real-world challenges.
 
@@ -103,41 +80,23 @@ Welcome to my GitHub space! I'm **Kartik Aggarwal**, a passionate **full-stack d
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 
-## 🏆 Coding Profiles
 
-<p align="center">
-  <!-- <a href="https://codeforces.com/profile/XoXoHarsh">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=xoxoharsh" alt="Codeforces Profile" width="32%" />
-  </a> -->
-  <a href="https://leetcode.com/Xaverick/">
-    <img src="https://leetcard.jacoblin.cool/Xaverick?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Profile" width="32%" />
-  </a>
-  <a href="https://linktr.ee/Xaverick">
-    <img src="https://github.com/user-attachments/assets/e9918184-135f-454d-8423-2e6636dc5dee" alt="View all Profiles" width="32%" />
-  </a>
-</p>
+# 📊 GitHub Stats:
 
----
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
+ <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+</div>
 
-<!-- ### 🔎 Fun Stuff
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
+ <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Xaverick&theme=dark&hide_border=false" />
+</div>
 
-```bash
-npx @xaverick/interactive-portfolio
-```
-
-Experience my interactive portfolio directly from your terminal!
-
---- -->
-
-<div align="center">
-
-### 📊 GitHub Stats:
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" alt="GitHub Stats"/>
-<img width="48%" src="https://streak-stats.demolab.com/?user=Xaverick&theme=radical" alt="Streak Stats"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaverick&layout=compact&theme=radical" alt="Top Languages"/>
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
+ <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaverick&theme=radical&layout=compact" />
 
 </div>
+
+
 
 ---
 
@@ -150,16 +109,4 @@ Experience my interactive portfolio directly from your terminal!
 <p align="center">
   <i>Let's build something amazing together!</i>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
 
