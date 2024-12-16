@@ -24,7 +24,7 @@ Welcome to my GitHub space! I'm **Kartik Aggarwal**, a passionate **full-stack d
 
 ---
 
-<div align="center">
+<div>
 
 ### 🌐 Connect With Me:
 
