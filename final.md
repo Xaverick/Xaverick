@@ -2,9 +2,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 ![MasterHead](https://i.pinimg.com/originals/5b/e4/72/5be4729ea4ae57b4a42444ba6485183e.gif)
 ![MasterHead](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/Websites-Software-Programmers-Thumbnails_1200x558.png?w=1024)
-
-
-
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi%2C+I+Am+Kartik+Aggarwal%F0%9F%91%8B;Technology+And+Coding+Enthusiast!" alt="Typing SVG"/>
