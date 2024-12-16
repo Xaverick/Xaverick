@@ -2,8 +2,9 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7F7F7&background=FFDC0900&center=true&vCenter=true&width=475&height=55&lines=Hi%2C+I+Am+Kartik+Aggarwal%F0%9F%91%8B;Technology+And+Coding+Enthusiast!" alt="Typing SVG" /></a>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi%2C+I+Am+Kartik+Aggarwal%F0%9F%91%8B;Technology+And+Coding+Enthusiast!" alt="Typing SVG"/>
+</div>
 
 ---
 
