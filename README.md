@@ -38,7 +38,7 @@ Welcome to my GitHub space! I'm **Kartik Aggarwal**, a passionate **full-stack d
 
 ## 🌐 Connect With Me Here:
 <p align="left">
-<a href="https://linkedin.com/in/kartik-aggarwal-951a6a194" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/kartik-aggarwal-951a6a194" /></a>
+<a href="https://www.linkedin.com/in/kartikaggarwal24/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/kartik-aggarwal-951a6a194" /></a>
 <a href="https://leetcode.com/u/Xaverick" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Xaverick" /></a>
 <a href="https://kartikaggarwal.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Xaverick" /></a>
 <a href="https://instagram.com/hii__kartik" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="https://instagram.com/hii__kartik" /></a>
