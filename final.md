@@ -66,33 +66,11 @@ Welcome to my GitHub space! I'm **Kartik Aggarwal**, a passionate **full-stack d
 ---
 
 ## 📊 GitHub Stats:
-
-<!-- <div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
- <img style="max-width: 50%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-
- <img style="max-width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaverick&theme=radical&layout=compact" />
-</div>
-
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
- <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Xaverick&theme=dark&hide_border=false" />
-</div> -->
-
-<!-- <div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=radical" />
- 
-</div> -->
-
-  <!-- <a href=""><img alt="jahnvisahni31 Github Stats" src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshsharma20503&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=harshsharma20503&count_private=true&theme=dark&border_radius=10" alt="Streak Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Xaverick&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Xaverick&count_private=true&theme=dark&border_radius=10" alt="Streak Stats" />
 </div>
-  <a href=""><img alt="Xaverick's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaverick&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
- 
-<br/>
-<br/>
 
 ---
 
