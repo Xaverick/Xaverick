@@ -38,7 +38,7 @@ Welcome to my GitHub space! I'm **Kartik Aggarwal**, a passionate **full-stack d
 
 <div>
 
-## 🌐 CONNECT WITH ME HERE:
+## 🌐 Connect With Me Here:
 <p align="left">
 <a href="https://linkedin.com/in/kartik-aggarwal-951a6a194" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/kartik-aggarwal-951a6a194" /></a>
 <a href="https://leetcode.com/u/Xaverick" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Xaverick" /></a>
