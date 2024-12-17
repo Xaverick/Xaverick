@@ -26,8 +26,6 @@
 Welcome to my GitHub space! I'm **Kartik Aggarwal**, a passionate **full-stack developer** and creative problem solver. I’m driven by the joy of creating unique solutions that make a difference and tackle real-world challenges.
 
 ### A Glimpse into My World:
-
-- 💬 Ask me about anything related to Technology, if I don't know about it, I would be interested in learning more!
 - 🔄 **Passion**: Exploring the endless possibilities of technology to build impactful products.
 - 🖋✨ **Hobbies**: Building projects, tinkering with code, and learning new tech every day!
 - 💎 **Perfectionism**: I love striving for perfection and always do my best to achieve it.
