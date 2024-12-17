@@ -82,12 +82,14 @@ Welcome to my GitHub space! I'm **Kartik Aggarwal**, a passionate **full-stack d
 </div> -->
 
   <!-- <a href=""><img alt="jahnvisahni31 Github Stats" src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
-  <a href=""><img alt="Xaverick's Activity Graph" src="https://github-readme-stats.vercel.app/api?username=Xaverick&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /></a>
+  
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshsharma20503&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=harshsharma20503&count_private=true&theme=dark&border_radius=10" alt="Streak Stats" />
+</div>
   <a href=""><img alt="Xaverick's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaverick&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  <a href="> <img alt="Xaverick's activity graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Xaverick&theme=dark&hide_border=false" /></a> 
-
  
 <br/>
 <br/>
@@ -97,3 +99,4 @@ Welcome to my GitHub space! I'm **Kartik Aggarwal**, a passionate **full-stack d
 <p align="center">
   <i>Let's build something amazing together!</i>
 </p>
+
